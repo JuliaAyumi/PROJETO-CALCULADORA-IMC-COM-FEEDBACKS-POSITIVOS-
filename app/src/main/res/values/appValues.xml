@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txtTitulo">Boas-vindas!</string>
+    <string name="textBtnStart">Calculadora IMC</string>
+    <string name="appTextPesoHint">Digite seu peso (kg)</string>
+    <string name="appTextAlturaHint">Digite sua altura (m)</string>
+    <string name="txtResultadoCalculadora">Resultado</string>
+    <string name="appTextBtnSetCalculadora">Calcular IMC</string>
+    <string name="appTextBtnClearCalculadora">Limpar</string>
+    <string name="appTextBtnCloseCalculadora">Fechar</string>
+    <string name="appTextBtnBack">Fechar</string>
+
+    <color name="appColor1">#00A859</color>
+    <color name="appColor2">#FFFFFF</color>
+    <color name="appColor3">#B3B3B3</color>
+    <color name="appColor4">#006341</color>
+    <color name="appColor5">#4D4D4D</color>
+</resources>
